@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="HOME"
+        android:text="2025621046 Subedi Anup Navigation Practice"
         android:textSize="32sp"
         android:textStyle="bold" />
 
