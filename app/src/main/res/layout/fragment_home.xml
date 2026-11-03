@@ -11,9 +11,18 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2025621046 SUBEDI ANUP Navigation Practice"
+        android:gravity="center"
+        android:text="SUBEDI ANUP"
         android:textSize="32sp"
         android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:text="STUDENT ID IS 2025621046"
+        android:textSize="18sp" />
 
     <TextView
         android:layout_width="wrap_content"
